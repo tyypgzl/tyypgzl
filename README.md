@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Flutter,Dart**
 
-- 🌱 I’m currently learning **Backends,Go**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Flutter,Dart,Firebase,Supabase🔥**
 
