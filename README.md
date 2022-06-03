@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tyypgzll" target="blank"><img src="https://img.shields.io/twitter/follow/tyypgzll?logo=twitter&style=for-the-badge" alt="tyypgzll" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter,Dart**
+- 🔭 I’m currently working on **Flutter & Dart**
 
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **Flutter,Dart,Firebase,Supabase🔥**
+- 🌱 I want to learn **Swift & Kotlin**
 
 - 📫 How to reach me **@tyypgzll from Twitter**
 
-- ⚡ Fun fact **I'm fan of marvel universe. I playing FPS games mostly Valorant**
+- ⚡ Fun fact **I'm fan of marvel universe. I play FPS games like Valorant, PUBG. I just started playing F1 2020.**
 
 - 💼 Member of FSC(Flutter Student Clup) [ FSC](https://twitter.com/Flutterstudents) (2022-Now)
 
