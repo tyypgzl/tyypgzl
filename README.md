@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Flutter & Dart**
 
-- 🌱 I want to learn **Swift & Kotlin**
+- 🌱 I’m currently learning on **Swift**
 
 - 📫 How to reach me **@tyypgzll from Twitter**
 
