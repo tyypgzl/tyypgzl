@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tyypgzll" target="blank"><img src="https://img.shields.io/twitter/follow/tyypgzll?logo=twitter&style=for-the-badge" alt="tyypgzll" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter, Dart & React-Native**
+- 🔭 I’m currently working on **Flutter, Dart & React-Native, Javascript**
 
 - 🌱 I’m currently learning on **Javascript**
 
